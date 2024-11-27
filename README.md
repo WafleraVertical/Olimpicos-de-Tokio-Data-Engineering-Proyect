@@ -50,9 +50,4 @@ Este repositorio contiene la configuración y los datos utilizados para el anál
 - El cuaderno de Databricks realiza el análisis de los datos, incluyendo operaciones de limpieza, transformación y visualización.
 - El archivo de Power BI proporciona visualizaciones interactivas y reportes del análisis de las medallas.
 
-## Uso
 
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
