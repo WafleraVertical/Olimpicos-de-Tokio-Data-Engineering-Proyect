@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "workspaces_olimpicos_tokio_sa_name": {
+            "value": null
+        },
+        "storageAccounts_olimpicosdetokiodatos_name": {
+            "value": null
+        },
+        "workspaces_databricks_olimpicos_tokyo_name": {
+            "value": null
+        }
+    }
+}
